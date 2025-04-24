@@ -35,6 +35,8 @@ function cleanUpH1Size(e) {
 }
 
 
+
+
 sizeRef.oninput = changeH1Size;
 
 h1Ref.onclick = changeH1Style;
